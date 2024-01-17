@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Seção 1: Introdução -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#page-top</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Seção 2: Quem Somos -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#about</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Seção 3: Serviços -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#servicos</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Seção 4: Consultoria -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#consultoria</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Seção 5: Portfolio -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#portfolio</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Seção 6: Sistemas -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#sistemas</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Seção 7: LGPD -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/assets/conteudo/documentos/LGPD.pdf</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Seção 8: Portal Licitações -->
+    <url>
+        <loc>https://acessolicitacoes.com/site/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Seção 9: Help Desk -->
+    <url>
+        <loc>https://softhouse.freshdesk.com/support/home</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Seção 10: Entre em Contato -->
+    <url>
+        <loc>https://softhouse.inf.br/site2023/#contato</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Link para o Saiba Mais do Sistema 1 -->
+    <url>
+        <loc>http://softhouse.nogtec.com.br</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Link para o Saiba Mais do Sistema 2 -->
+    <url>
+        <loc>http://acessoeducacao.com</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Link para o Saiba Mais do Sistema 3 -->
+    <url>
+        <loc>assets/conteudo/sistemas/FolderGED.webp</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Link para o Saiba Mais do Sistema 4 -->
+    <url>
+        <loc>http://moovdigital.com.br</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Link para o Saiba Mais do Sistema 5 -->
+    <url>
+        <loc>assets/conteudo/documentos/PPT%20Protege%20Escola%202023%20Softhouse.pdf</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Link para o Saiba Mais do Sistema 6 -->
+    <url>
+        <loc>assets/conteudo/documentos/Saude%20na%20Palma%20da%20Mão%20Softhouse%202022.pdf</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
