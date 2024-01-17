@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+
+#
+#       SSSS   OOO   FFFFF  TTTTT  H   H  OOO  U   U  SSSS  EEEEE
+#      S      O   O  F        T    H   H O   O U   U S      E
+#       SSS   O   O  FFFF     T    HHHHH O   O U   U  SSS   EEEE
+#          S  O   O  F        T    H   H O   O U   U     S  E
+#       SSSS   OOO   F        T    H   H  OOO   UUU   SSSS  EEEEE
+#
