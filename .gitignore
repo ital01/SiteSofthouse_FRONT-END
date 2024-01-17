@@ -1,2 +1,5 @@
 .vscode/
-.config.php
+node_modules/
+package-lock.json
+package.json
+config.js
