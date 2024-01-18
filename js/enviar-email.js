@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
       var form = new FormData(document.getElementById('contatoForm'));
       var xhr = new XMLHttpRequest();
-      xhr.open('POST', 'enviar-email.php', true);
+      xhr.open('POST', '#', true);
       xhr.onload = function () {
         if (xhr.status === 200) {
           try {
