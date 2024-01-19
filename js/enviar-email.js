@@ -46,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
           resposta.classList.add('alert-danger');
           document.getElementById('contatoForm').reset();
           grecaptcha.reset();
+          submitButton.disabled = false;
         }
   
         submitButton.disabled = false;
