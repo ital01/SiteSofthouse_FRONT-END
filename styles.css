@@ -3740,6 +3740,14 @@ textarea.form-control {
   background-color: transparent !important;
 }
 
+.bg-opacity-1 {
+  --bs-bg-opacity: 0.01;
+}
+
+.bg-opacity-5 {
+  --bs-bg-opacity: 0.05;
+}
+
 .bg-opacity-10 {
   --bs-bg-opacity: 0.1;
 }

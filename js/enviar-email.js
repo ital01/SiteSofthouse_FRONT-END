@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
       var form = new FormData(document.getElementById('contatoForm'));
       var xhr = new XMLHttpRequest();
-      xhr.open('POST', '#', true);
+      xhr.open('POST', 'enviar-email.php', true);
       xhr.onload = function () {
         if (xhr.status === 200) {
           try {
@@ -46,7 +46,6 @@ document.addEventListener('DOMContentLoaded', function () {
           resposta.classList.add('alert-danger');
           document.getElementById('contatoForm').reset();
           grecaptcha.reset();
-          submitButton.disabled = false;
         }
   
         submitButton.disabled = false;
