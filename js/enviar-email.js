@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
       var form = new FormData(document.getElementById('contatoForm'));
       var xhr = new XMLHttpRequest();
-      xhr.open('POST', 'enviar-email.php', true);
+      xhr.open('POST', '', true);
       xhr.onload = function () {
         if (xhr.status === 200) {
           try {
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
           console.error('Erro durante a requisição AJAX. Status:', xhr.status);
           var resposta = document.getElementById('resposta');
-          resposta.innerHTML = 'Erro durante a requisição AJAX.';
+          resposta.innerHTML = 'Erro durante a requisição AJAX. Atualize a pagina';
           resposta.classList.add('alert-danger');
           document.getElementById('contatoForm').reset();
           grecaptcha.reset();
@@ -52,9 +52,9 @@ document.addEventListener('DOMContentLoaded', function () {
       };
   
       xhr.onerror = function () {
-        console.error('Erro durante a requisição AJAX.');
+        console.error('Erro durante a requisição AJAX. Status:', xhr.status);
         var resposta = document.getElementById('resposta');
-        resposta.innerHTML = 'Erro durante a requisição AJAX.';
+        resposta.innerHTML = 'Erro durante a requisição AJAX. Atualize a pagina';
         resposta.classList.add('alert-danger');
         document.getElementById('contatoForm').reset();
         grecaptcha.reset();
